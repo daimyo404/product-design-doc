@@ -1,1 +1,9 @@
-# product-design-doc
+## Description
+
+このリポジトリは個人開発プロダクトの設計に関するドキュメントを格納するためのものです。
+
+## Products
+
+### one-on-one
+
+ログを残して良い 1on1 を実施するためのプロダクト
